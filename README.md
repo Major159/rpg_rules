@@ -1,6 +1,8 @@
 
 # Roleplaying rules
 
+![continuous-master](https://github.com/Major159/rpg_rules/workflows/continuous-master/badge.svg)
+
 Version 0.1, released on -
 
 Specifies the requirements and the process of organizing roleplaying game sessions. Expressions of pen and paper RPG are considered to be known to the reader.
