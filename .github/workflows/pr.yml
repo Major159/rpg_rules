@@ -1,14 +1,9 @@
-name: continuous-master
+name: pr
 
-on: 
-    push:
-        branches: 
-          - master
-    schedule:
-      - cron:  '*/60 * * * *'
+on: pull_request
 
 jobs:
-  build-master:
+  build-pr:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
