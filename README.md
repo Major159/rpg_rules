@@ -74,17 +74,17 @@ For details of each of these, see the below subsections with the same names.
 1. Declaring the next session must be done before the double of the *notification time*, even if the day and time is agreed to repeat. This is to make sure everyone is aware that there will be a game session indeed.
 1. The declaration of a new game session must contain:
   1. the day of the game
-  2. the starting time, in 24 hour format
-  3. location
-  3. the name of the dungeon master (and her substitute, if available)
-  4. name of the ongoing campaign
-  5. A vote for the day of the game, as this seems the most problematic part. The voting options must contain the proposed day as well, and the person who does the declaration must vote right after the declaratio is done.
+  1. the starting time, in 24 hour format
+  1. location
+  1. the name of the dungeon master (and her substitute, if available)
+  1. name of the ongoing campaign
+  1. A vote for the day of the game, as this seems the most problematic part. The voting options must contain the proposed day as well, and the person who does the declaration must vote right after the declaratio is done.
 1. Each member must vote on the day of the game. If someone does not vote for anything *before the start of the game session*, she is considered unavailable.
 
 ## Absence
 
 1. If someone is absent, her character will be passive during the game session and does not receive any experience points for the session.
-2. If someone is absent, the dungeon master can take control of her character for the game session if the story requires it, but this must be made so that the character suffers the least possbile permanent changes.
+1. If someone is absent, the dungeon master can take control of her character for the game session if the story requires it, but this must be made so that the character suffers the least possbile permanent changes.
 
 ## Appendix A: Example of a game declaration
 
