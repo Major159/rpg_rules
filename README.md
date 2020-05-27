@@ -9,12 +9,18 @@ Specifies the requirements and the process of organizing roleplaying game sessio
 
 ## Definitions
 
+When referring to a definition, text will be *italicized*.
+
+Reference to other sections of this document will be **bold**.
+
 1. Notification time/before the start of the game session: 24 hours before the start time of the game session
 1. Maximum waiting time in case of lateness: 30 minutes.
-1. Communication channel: clear, written format. Any kind of pictures, videos, or signals not perceived by the human eye are not accepted.
-1. Preparation time: 1 week.
+1. Communication must be done in clear, written text. Messages consisting of any kind of pictures(for example, but not limited to, GIFs), videos, or signals not perceived by the human eye will not accepted and will be considered as non-existent.
+1. Preparation time: 1 week before the start of the first game session in the campaign.
 
 ## Required conditions
+
+Conditions required to hold a game session.
 
 1. Time  
 1. The dungeon master
@@ -27,40 +33,43 @@ For details of each of these, see the below subsections with the same names.
 
 ### Time
 
-1. Day of the game must be agreed upon, *before the start of the game session*. It is advised to agree on fixed day.
+1. Day of the game must be agreed upon, *before the start of the game session*. It is advised to agree on fixed day of the week.
 1. Time of the game in 24 hour format must be agreed upon, *before the start of the game session*. 
-1. If someone is late for a game session, but the required conditions are met without her, after the *maximum waiting time*, the can be started.
+1. If someone is late for a game session, but the required conditions are met without her, after the *maximum waiting time*, the session can be started.
 
 ### The dungeon master
 
 1. The dungeon master must be appointed *before of the start of the game session*, with her agreement.
-1. Appointing a substitute dungeon master with a 1 session story can reduce the chance of cancellation.
+1. Appointing a substitute dungeon master with a 1 session story ready can reduce the chance of cancellation.
 
 ### RPG system
 
 1. The dungeon master specifies the RPG system and any additional rules of the game in advance, before the *preparation time* of the first session.
-1. The dungeon master asks the players to prepare their character sheets in advance, before the *preparation time* of the first session. The dungeon master provides help if requested.
+1. The dungeon master asks the players to prepare their character sheets in advance, before the *preparation time* of the first session. 
+1. Character sheets must be ready at the start of the first session. 
+1. The dungeon master provides help with the character sheet preparation if requested.
 
 ### Location
 
 1. Online
-  1. Agree upon the softwares to be used, agreed upon *before the start of the game session*
-  1. Required hardware, with network connection: a computer, wecam and micrphone or a smartphone.
+  1. Softwares to be used must be agreed upon *before the start of the game session*.
+  1. Required hardware, with network connection: a computer, webcam and micrphone or a smartphone.
 1. Live
   1. Specify the available locations, and create an order of them so that every location will host the same amount of sessions. Must be agreed before the *preparation time* of the first session.
-  1. If the next location becomes unavailable for any reason, then the next location in the agreed order takes its place.
+  1. If the next location becomes unavailable for any reason, then the location after it takes its place.
 
 ### Players
 
 1. At least 2 players are required, or a higher number requested by the dungeon master, agreed upon *before the start of the game session*
-1. If the dungeon master requires that specific players to be present at the next session, she must say so *before  the start of the game session*. If she fails to do so, requirement conditions are not changed and the game session will take place.
+1. If the dungeon master requires that specific players to be present at the next session, she must say so *before  the start of the game session*. If she fails to do so, requirement conditions are not changed and the game session will take place, even in the absence of the key players.
 
 ### Accessories
 
 1. Dice, everyone must have one of each of these: d4, d6, d8, d10, d12, d20. Dice rolling applications are not recommended.
 1. A filled character sheet for each player.
   1. Character sheet preparation cannot delay the start of a game session.
-  1. In the absence of a character sheet, the player must take part without it in the game session. The dungeon master can prohibit participation.
+  1. In the absence of a character sheet, the player must take part without it in the game session. 
+  1. The dungeon master can prohibit participation in lack of a completed character sheet.
 1. Stationery for updating character sheets, taking notes.
 
 ## Cancellation
@@ -70,7 +79,7 @@ For details of each of these, see the below subsections with the same names.
 
 ## Declaring a new game session
 
-1. Declaring the next session is the responsibility of the person who provides the location of the game.
+1. Declaring the next session is the responsibility of the person who provides the next location of the game.
 1. Declaring the next session must be done before the double of the *notification time*, even if the day and time is agreed to repeat. This is to make sure everyone is aware that there will be a game session indeed.
 1. The declaration of a new game session must contain:
   1. the day of the game
@@ -78,7 +87,7 @@ For details of each of these, see the below subsections with the same names.
   1. location
   1. the name of the dungeon master (and her substitute, if available)
   1. name of the ongoing campaign
-  1. A vote for the day of the game, as this seems the most problematic part. The voting options must contain the proposed day as well, and the person who does the declaration must vote right after the declaratio is done.
+  1. A vote for the day of the game, as this seems the most problematic part. The voting options must contain the originally proposed day as well, and the person who does the declaration must vote right after the declaration is done
 1. Each member must vote on the day of the game. If someone does not vote for anything *before the start of the game session*, she is considered unavailable.
 
 ## Absence
