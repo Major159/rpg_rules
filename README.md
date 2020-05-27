@@ -13,7 +13,8 @@ When referring to a definition, text will be *italicized*.
 
 Reference to other sections of this document will be **bold**.
 
-1. Notification time/before the start of the game session: 24 hours before the start time of the game session
+1. Notification time/before the start of the game session: 24 hours before the start time of the game session.
+1. Declaration time: 48 hours before the start time of the game session.
 1. Maximum waiting time in case of lateness: 30 minutes.
 1. Communication must be done in clear, written text. Messages consisting of any kind of pictures(for example, but not limited to, GIFs), videos, or signals not perceived by the human eye will not accepted and will be considered as non-existent.
 1. Preparation time: 1 week before the start of the first game session in the campaign.
@@ -80,7 +81,7 @@ For details of each of these, see the below subsections with the same names.
 ## Declaring a new game session
 
 1. Declaring the next session is the responsibility of the person who provides the next location of the game.
-1. Declaring the next session must be done before the double of the *notification time*, even if the day and time is agreed to repeat. This is to make sure everyone is aware that there will be a game session indeed.
+1. Declaring the next session must be done before *declaration time*, even if the day and time is agreed to repeat. This is to make sure everyone is aware that there will be a game session indeed.
 1. The declaration of a new game session must contain:
   1. the day of the game
   1. the starting time, in 24 hour format
