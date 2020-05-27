@@ -1,9 +1,12 @@
-name: build-rules
+name: private-para
 
-on: [push, pull_request]
+on: 
+    push:
+        branches-ignore: 
+          - master
 
 jobs:
-  build-rules:
+  build-parameterized:
     runs-on: ubuntu-latest
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
